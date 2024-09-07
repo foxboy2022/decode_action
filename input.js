@@ -1,7 +1,7 @@
 /**
  * cron: 40 4 * * *
  *
- * bwcj
+ * bwcj1
  * 霸王茶姬
  * 抓小程序中登录请求：https://webapi2.qmai.cn/web/seller/oauth/flash-sale-login 返回中的token和user.id
  * export bwcj_ck="token#userId"  多个换行
